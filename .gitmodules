@@ -1,0 +1,3 @@
+[submodule "stripe-python"]
+	path = stripe-python
+	url = https://github.com/stripe/stripe-python

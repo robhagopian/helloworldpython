@@ -1,5 +1,7 @@
 # Getting Started #
 
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/robhagopian/helloworldpython/tree/main)
+
 These steps will get this sample application running for you using DigitalOcean.
 
 **Note: Following these steps will result in charges for the use of DigitalOcean services**
